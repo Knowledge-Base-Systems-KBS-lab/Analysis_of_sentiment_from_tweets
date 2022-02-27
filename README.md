@@ -15,6 +15,10 @@ Label - Sentiment for the tweet--->(Y)
 
 Sentiment analysis studies the subjective information in an expression, that is, the opinions, appraisals, emotions, or attitudes towards a topic, person or entity.The dataset has three sentiments namely, negative(-1), neutral(0), and positive(+1).
 
+![download](https://user-images.githubusercontent.com/20832374/155898373-779dc207-e4d5-46a7-ae2a-55a7c13ecf89.png)
+
+![download1](https://user-images.githubusercontent.com/20832374/155898387-7c4c240e-797a-4fe3-9ede-a8513530d2ae.png)
+
 Contents of this repository are:
 1. Importing Packages
 2. Importing Data
